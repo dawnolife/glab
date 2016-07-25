@@ -1,3 +1,4 @@
 new sample file
 edit from tutorial
 edit to create conflict from tutorial2
+edit to create conflict from tutorial
