@@ -1,4 +1,0 @@
-create readfol1
-edit from tutorial2
-edit after erase from tutoriala
-one more edit
